@@ -8,7 +8,7 @@
 body {
   background-color: #808080;
   color: white;
-  height: 120vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -88,3 +88,4 @@ body {
   margin: 4px;
   font-size: 1rem;
 }
+
